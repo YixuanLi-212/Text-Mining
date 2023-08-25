@@ -1,3 +1,5 @@
 # Text-Mining
 
-This repo stores code related to text mining.
+This repo stores codes related to text mining.
+
+Issues include: 
