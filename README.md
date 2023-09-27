@@ -8,6 +8,7 @@ Issues include:
 
 
 ## Required packages
-All required packages are contained in requirements.txt file with the following codes:
+All required packages are contained in `requirements.txt` file with the following codes:
+
 ```pip3 install -r requirements.txt```
 
