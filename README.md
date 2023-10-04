@@ -1,9 +1,9 @@
 # Web Scraping
 
-This repo stores codes related to web scraping.
+This repo restores codes related to web scraping.
 
 Issues include: 
-1. Get up-to-date USD/CNY rate from Google Finance
+1. Flight prices tracker
 2. 
 
 

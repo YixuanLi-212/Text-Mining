@@ -1,8 +1,10 @@
-## API-related packages
+# API-related packages
 requests
-bs4
+beautifulsoup4
 
-## Date packages
+# CLI tool
+click
+
+# Date package
 datetime
-
-urllib3 == 1.26.6
+time
